@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote name="akira-vishal"
+          fetch="https://github.com/akira-vishal" />
+
+  <!-- Trees -->
+        <project path="device/xiaomi/whyred" name="android_device_xiaomi_whyred" remote="akira-vishal" revision="lineage-18.1"/>
+        <project path="kernel/xiaomi/whyred" name="nexus_kernel_whyred" remote="akira-vishal" revision="master" />
+        <project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common" remote="akira-vishal" revision="lineage-18.1" />
+        <project path="vendor/xiaomi/whyred" name="vendor_xiaomi" remote="akira-vishal" revision="lineage-18.1" />
+        <project path="vendor/xiaomi/sdm660-common" name="vendor_MiuiCamera" remote="akira-vishal" revision="11.x" />
+        
+</manifest>
