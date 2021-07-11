@@ -9,6 +9,5 @@
         <project path="kernel/xiaomi/whyred" name="nexus_kernel_whyred" remote="akira-vishal" revision="master" />
         <project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common" remote="akira-vishal" revision="lineage-18.1" />
         <project path="vendor/xiaomi/whyred" name="vendor_xiaomi" remote="akira-vishal" revision="lineage-18.1" />
-        <project path="vendor/xiaomi/sdm660-common" name="vendor_MiuiCamera" remote="akira-vishal" revision="11.x" />
         
 </manifest>
